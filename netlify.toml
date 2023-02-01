@@ -1,0 +1,23 @@
+[build]
+  direction = "dist"
+  command = "npm run build"
+
+[[redirects]]
+  from = "/about"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/shop"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/blog"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/contact"
+  to = "/"
+  status = 200
