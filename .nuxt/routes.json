@@ -1,0 +1,152 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\checkout.vue",
+    "chunkName": "pages/checkout"
+  },
+  {
+    "name": "compare",
+    "path": "/compare",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\compare.vue",
+    "chunkName": "pages/compare"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "home-book-store",
+    "path": "/home-book-store",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\home-book-store.vue",
+    "chunkName": "pages/home-book-store"
+  },
+  {
+    "name": "login-register",
+    "path": "/login-register",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\login-register.vue",
+    "chunkName": "pages/login-register"
+  },
+  {
+    "name": "my-account",
+    "path": "/my-account",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\my-account.vue",
+    "chunkName": "pages/my-account"
+  },
+  {
+    "name": "privacy-policy",
+    "path": "/privacy-policy",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\privacy-policy.vue",
+    "chunkName": "pages/privacy-policy"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\shop.vue",
+    "chunkName": "pages/shop"
+  },
+  {
+    "name": "shop-grid-full-width",
+    "path": "/shop-grid-full-width",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\shop-grid-full-width.vue",
+    "chunkName": "pages/shop-grid-full-width"
+  },
+  {
+    "name": "shop-grid-no-sidebar",
+    "path": "/shop-grid-no-sidebar",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\shop-grid-no-sidebar.vue",
+    "chunkName": "pages/shop-grid-no-sidebar"
+  },
+  {
+    "name": "shop-grid-right-sidebar",
+    "path": "/shop-grid-right-sidebar",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\shop-grid-right-sidebar.vue",
+    "chunkName": "pages/shop-grid-right-sidebar"
+  },
+  {
+    "name": "shop-grid-two-column",
+    "path": "/shop-grid-two-column",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\shop-grid-two-column.vue",
+    "chunkName": "pages/shop-grid-two-column"
+  },
+  {
+    "name": "shop-list-full-width",
+    "path": "/shop-list-full-width",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\shop-list-full-width.vue",
+    "chunkName": "pages/shop-list-full-width"
+  },
+  {
+    "name": "shop-list-standard",
+    "path": "/shop-list-standard",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\shop-list-standard.vue",
+    "chunkName": "pages/shop-list-standard"
+  },
+  {
+    "name": "terms-conditions",
+    "path": "/terms-conditions",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\terms-conditions.vue",
+    "chunkName": "pages/terms-conditions"
+  },
+  {
+    "name": "wishlist",
+    "path": "/wishlist",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\wishlist.vue",
+    "chunkName": "pages/wishlist"
+  },
+  {
+    "name": "blog-blog-right-sidebar",
+    "path": "/blog/blog-right-sidebar",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\blog\\\\blog-right-sidebar.vue",
+    "chunkName": "pages/blog/blog-right-sidebar"
+  },
+  {
+    "name": "blog-blog-without-sidebar",
+    "path": "/blog/blog-without-sidebar",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\blog\\\\blog-without-sidebar.vue",
+    "chunkName": "pages/blog/blog-without-sidebar"
+  },
+  {
+    "name": "product-product-affiliate",
+    "path": "/product/product-affiliate",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\product\\\\product-affiliate.vue",
+    "chunkName": "pages/product/product-affiliate"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug"
+  },
+  {
+    "name": "product-slug",
+    "path": "/product/:slug?",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\product\\\\_slug.vue",
+    "chunkName": "pages/product/_slug"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\New folder\\\\flone\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
